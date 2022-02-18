@@ -1,0 +1,18 @@
+#blue{
+    color: rgb(5, 5, 63);
+}
+#green{
+    color: rgb(61, 154, 170);
+}
+sup{
+    color: rgb(30, 230, 30);
+}
+.saving{
+    width:60% ;
+
+}
+
+.calculation-box{
+    background-color: rgba(94, 94, 46, 0.075);
+    border-radius: 10px;
+}
